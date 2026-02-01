@@ -1,0 +1,1 @@
+In this project I will have practiced the git workflow and demonstrated basic HTML commands. These include creating a home page, absolute links, relative links and images.
